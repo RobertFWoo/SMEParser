@@ -1,0 +1,2004 @@
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Mon Jan 19 16:58:00 GMT-06:00 2026
+  UT:        Mon Jan 19 14:58:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461060.123611111
+  Equation of Time        = -10:45 min  = prev. day  -18.5 s
+  Local Sidereal Time     = 19.7172° = 19° 43.0' = 1h 18m 52.1s
+  Greenwich Sidereal Time = 343.5172° = 343° 31.0' = 22h 54m 4.1s
+  SUN:
+    Right Asc. RA = 301.7072° = 20h 06m 49.7s
+    Ecl. Long. L  = 299.5451° = 299° 32.7' (Capricornus 29° 32.7')
+    Distance from Earth = 0.98394 AU,  Diameter = 32.51'
+    Declin.= 20.2453° S = 20° 14.7' S
+    GHA    = 41.8° = 41° 48.3'
+    LHA    = 78.0° = 78° 00.3'
+    Alt.= -1.06° = -1° 3.7'
+    Az.= 246.4°  (WSW)
+    Begin astr. twilight  05:09   01:25 h before rise
+    Begin naut. twilight  05:38   00:56 h before rise
+    Begin civil twilight  06:08   00:26 h before rise
+    Sunrise               06:34   Azim. = 113.5°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:46   Altit.= 37.8°
+    Sunset                16:58   Azim. = 246.6° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:24   00:26 h after set
+    End naut. twilight    17:54   00:56 h after set
+    End astr. twilight    18:23   01:25 h after set
+    Minimum altitude at   23:46   -78.7°
+    Length of Day:   10 h 23.1 min = length of prev. day  + 1.2 min
+  MOON:
+    Prev. New Moon: Sun 2026 Jan 18 at 19:51 UT
+    Moon Age 0.7966 d = 00 d 19 h 07 m 
+    waxing crescent
+    Next New Moon:  Tue 2026 Feb 17 at 12:03 UT
+    Illum. Frac.  = 0.6 % (+)
+    Bright limb angle   = -142° to zenith
+    Distance from Earth = 392633 km,  Diameter = 30.49'
+    Declin.= 20.6244° S = 20° 37' S
+    Right Asc. RA = 311.3956° = 20h 45m 34.9s
+    Ecl. Long. L  = 308.7411° = 308° 44.5' (Aquarius 8° 44.5')
+    GHA    = 31.61° = 31° 36.5'
+    LHA    = 67.81° = 67° 48.5'
+    Alt.= 5.8°
+    Az.= 240.7°  (WSW)
+    Rise     07:07   Azim. = 116.6° (ESE)
+    Transit  12:17   Altit.= 36.0°
+    Set      17:34   Azim. = 245.6° (WSW)   Above horizon:   10:27 hours
+    Geocentric Elong. = 9.56°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Tue Jan 20 16:58:00 GMT-06:00 2026
+  UT:        Tue Jan 20 14:58:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461061.123611111
+  Equation of Time        = -11:03 min  = prev. day  -17.7 s
+  Local Sidereal Time     = 20.7028° = 20° 42.2' = 1h 22m 48.7s
+  Greenwich Sidereal Time = 344.5028° = 344° 30.2' = 22h 58m 0.7s
+  SUN:
+    Right Asc. RA = 302.7667° = 20h 11m 4.0s
+    Ecl. Long. L  = 300.563° = 300° 33.8' (Aquarius 0° 33.8')
+    Distance from Earth = 0.984023 AU,  Diameter = 32.51'
+    Declin.= 20.0293° S = 20° 01.8' S
+    GHA    = 41.73° = 41° 43.8'
+    LHA    = 77.93° = 77° 55.8'
+    Alt.= -0.89° = 0° 53.2'
+    Az.= 246.6°  (WSW)
+    Begin astr. twilight  05:09   01:25 h before rise
+    Begin naut. twilight  05:38   00:56 h before rise
+    Begin civil twilight  06:08   00:26 h before rise
+    Sunrise               06:34   Azim. = 113.3°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:46   Altit.= 38.0°
+    Sunset                16:58   Azim. = 246.8° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:25   00:26 h after set
+    End naut. twilight    17:54   00:56 h after set
+    End astr. twilight    18:24   01:25 h after set
+    Minimum altitude at   23:46   -78.5°
+    Length of Day:   10 h 24.3 min = length of prev. day  + 1.2 min
+  MOON:
+    Prev. New Moon: Sun 2026 Jan 18 at 19:51 UT
+    Moon Age 1.7966 d = 01 d 19 h 07 m 
+    waxing crescent
+    Next New Moon:  Tue 2026 Feb 17 at 12:03 UT
+    Illum. Frac.  = 3.3 % (+)
+    Bright limb angle   = -153° to zenith
+    Distance from Earth = 389219 km,  Diameter = 30.86'
+    Declin.= 15.8548° S = 15° 51' S
+    Right Asc. RA = 324.406° = 21h 37m 37.5s
+    Ecl. Long. L  = 321.4776° = 321° 28.7' (Aquarius 21° 28.7')
+    GHA    = 20.11° = 20° 06.8'
+    LHA    = 56.31° = 56° 18.8'
+    Alt.= 17.2°
+    Az.= 237.3°  (WSW)
+    Rise     07:42   Azim. = 111.2° (ESE)
+    Transit  13:05   Altit.= 40.8°
+    Set      18:36   Azim. = 251.6° (WSW)   Above horizon:   10:54 hours
+    Geocentric Elong. = 20.97°
+
+
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Jan 21 16:59:00 GMT-06:00 2026
+  UT:        Wed Jan 21 14:59:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461062.1243055556
+  Equation of Time        = -11:20 min  = prev. day  -17.0 s
+  Local Sidereal Time     = 21.9392° = 21° 56.3' = 1h 27m 45.4s
+  Greenwich Sidereal Time = 345.7392° = 345° 44.3' = 23h 02m 57.4s
+  SUN:
+    Right Asc. RA = 303.8237° = 20h 15m 17.7s
+    Ecl. Long. L  = 301.5814° = 301° 34.9' (Aquarius 1° 34.9')
+    Distance from Earth = 0.98411 AU,  Diameter = 32.5'
+    Declin.= 19.807° S = 19° 48.4' S
+    GHA    = 41.91° = 41° 54.6'
+    LHA    = 78.11° = 78° 06.6'
+    Alt.= -0.91° = 0° 54.5'
+    Az.= 246.8°  (WSW)
+    Begin astr. twilight  05:09   01:25 h before rise
+    Begin naut. twilight  05:38   00:56 h before rise
+    Begin civil twilight  06:08   00:26 h before rise
+    Sunrise               06:34   Azim. = 113.0°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:47   Altit.= 38.2°
+    Sunset                16:59   Azim. = 247.1° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:26   00:26 h after set
+    End naut. twilight    17:55   00:56 h after set
+    End astr. twilight    18:24   01:25 h after set
+    Minimum altitude at   23:47   -78.3°
+    Length of Day:   10 h 25.6 min = length of prev. day  + 1.2 min
+  MOON:
+    Prev. New Moon: Sun 2026 Jan 18 at 19:51 UT
+    Moon Age 2.7973 d = 02 d 19 h 08 m 
+    waxing crescent
+    Next New Moon:  Tue 2026 Feb 17 at 12:03 UT
+    Illum. Frac.  = 8.0 % (+)
+    Bright limb angle   = -155° to zenith
+    Distance from Earth = 385816 km,  Diameter = 31.22'
+    Declin.= 10.3079° S = 10° 18' S
+    Right Asc. RA = 336.9544° = 22h 27m 49.0s
+    Ecl. Long. L  = 334.4155° = 334° 24.9' (Pisces 4° 24.9')
+    GHA    = 9.29° = 9° 17.3'
+    LHA    = 45.49° = 45° 29.3'
+    Alt.= 28.7°
+    Az.= 233.7°  (SW)
+    Rise     08:13   Azim. = 104.7° (ESE)
+    Transit  13:51   Altit.= 46.5°
+    Set      19:37   Azim. = 258.5° (WSW)   Above horizon:   11:24 hours
+    Geocentric Elong. = 32.84°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Feb 18 17:24:00 GMT-06:00 2026
+  UT:        Wed Feb 18 15:24:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461090.1416666666
+  Equation of Time        = -13:52 min   = prev. day  +4.9 s
+  Local Sidereal Time     = 55.8044° = 55° 48.3' = 3h 43m 13.1s
+  Greenwich Sidereal Time = 19.6044° = 19° 36.3' = 1h 18m 25.1s
+  SUN:
+    Right Asc. RA = 332.0745° = 22h 08m 17.9s
+    Ecl. Long. L  = 329.9845° = 329° 59.1' (Aquarius 29° 59.1')
+    Distance from Earth = 0.988381 AU,  Diameter = 32.36'
+    Declin.= 11.477° S = 11° 28.6' S
+    GHA    = 47.52° = 47° 31.4'
+    LHA    = 83.72° = 83° 43.4'
+    Alt.= -0.98° = 0° 59.0'
+    Az.= 256.6°  (WSW)
+    Begin astr. twilight  04:53   01:21 h before rise
+    Begin naut. twilight  05:21   00:53 h before rise
+    Begin civil twilight  05:50   00:25 h before rise
+    Sunrise               06:14   Azim. = 103.2°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:49   Altit.= 46.4°
+    Sunset                17:24   Azim. = 257.0° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:49   00:25 h after set
+    End naut. twilight    18:18   00:53 h after set
+    End astr. twilight    18:46   01:22 h after set
+    Minimum altitude at   23:49   -70.1°
+    Length of Day:   11 h 10.3 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Tue 2026 Feb 17 at 12:03 UT
+    Moon Age 1.1396 d = 01 d 03 h 21 m 
+    waxing crescent
+    Next New Moon:  Thu 2026 Mar 19 at  1:25 UT
+    Illum. Frac.  = 1.5 % (+)
+    Bright limb angle   = -170° to zenith
+    Distance from Earth = 380155 km,  Diameter = 31.55'
+    Declin.= 5.8603° S =  5° 52' S
+    Right Asc. RA = 344.8889° = 22h 59m 33.3s
+    Ecl. Long. L  = 344.0098° = 344° 00.6' (Pisces 14° 00.6')
+    GHA    = 34.52° = 34° 30.9'
+    LHA    = 70.72° = 70° 42.9'
+    Alt.= 12.2°
+    Az.= 254.5°  (WSW)
+    Rise     06:44   Azim. = 100.3° (E)
+    Transit  12:32   Altit.= 50.5°
+    Set      18:29   Azim. = 263.4° (W)   Above horizon:   11:45 hours
+    Geocentric Elong. = 14.03°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Thu Feb 19 17:25:00 GMT-06:00 2026
+  UT:        Thu Feb 19 15:25:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461091.142361111
+  Equation of Time        = -13:47 min   = prev. day  +5.6 s
+  Local Sidereal Time     = 57.0407° = 57° 02.4' = 3h 48m 9.8s
+  Greenwich Sidereal Time = 20.8407° = 20° 50.4' = 1h 23m 21.8s
+  SUN:
+    Right Asc. RA = 333.0375° = 22h 12m 9.0s
+    Ecl. Long. L  = 330.9938° = 330° 59.6' (Pisces 0° 59.6')
+    Distance from Earth = 0.988592 AU,  Diameter = 32.36'
+    Declin.= 11.1207° S = 11° 07.2' S
+    GHA    = 47.8° = 47° 47.8'
+    LHA    = 84.0° = 83° 59.8'
+    Alt.= -1.02° = -1° 1.3'
+    Az.= 257.1°  (WSW)
+    Begin astr. twilight  04:52   01:21 h before rise
+    Begin naut. twilight  05:20   00:53 h before rise
+    Begin civil twilight  05:49   00:25 h before rise
+    Sunrise               06:13   Azim. = 102.8°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:49   Altit.= 46.7°
+    Sunset                17:25   Azim. = 257.5° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:50   00:25 h after set
+    End naut. twilight    18:19   00:53 h after set
+    End astr. twilight    18:47   01:22 h after set
+    Minimum altitude at   23:49   -69.7°
+    Length of Day:   11 h 12.1 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Tue 2026 Feb 17 at 12:03 UT
+    Moon Age 2.1403 d = 02 d 03 h 22 m 
+    waxing crescent
+    Next New Moon:  Thu 2026 Mar 19 at  1:25 UT
+    Illum. Frac.  = 5.3 % (+)
+    Bright limb angle   = -171° to zenith
+    Distance from Earth = 377028 km,  Diameter = 31.92'
+    Declin.= 0.5977° N =  0° 36' N
+    Right Asc. RA = 357.4145° = 23h 49m 39.5s
+    Ecl. Long. L  = 357.5958° = 357° 35.7' (Pisces 27° 35.7')
+    GHA    = 23.72° = 23° 43.2'
+    LHA    = 59.92° = 59° 55.2'
+    Alt.= 24.7°
+    Az.= 253.6°  (WSW)
+    Rise     07:13   Azim. = 92.7° (E)
+    Transit  13:17   Altit.= 57.2°
+    Set      19:32   Azim. = 271.4° (W)   Above horizon:   12:19 hours
+    Geocentric Elong. = 26.65°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Feb 20 17:26:00 GMT-06:00 2026
+  UT:        Fri Feb 20 15:26:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461092.1430555554
+  Equation of Time        = -13:41 min   = prev. day  +6.2 s
+  Local Sidereal Time     = 58.2771° = 58° 16.6' = 3h 53m 6.5s
+  Greenwich Sidereal Time = 22.0771° = 22° 04.6' = 1h 28m 18.5s
+  SUN:
+    Right Asc. RA = 333.9977° = 22h 15m 59.4s
+    Ecl. Long. L  = 332.0027° = 332° 00.2' (Pisces 2° 00.2')
+    Distance from Earth = 0.988806 AU,  Diameter = 32.35'
+    Declin.= 10.7615° S = 10° 45.7' S
+    GHA    = 48.07° = 48° 04.4'
+    LHA    = 84.27° = 84° 16.4'
+    Alt.= -1.06° = -1° 3.6'
+    Az.= 257.5°  (WSW)
+    Begin astr. twilight  04:51   01:21 h before rise
+    Begin naut. twilight  05:19   00:53 h before rise
+    Begin civil twilight  05:48   00:25 h before rise
+    Sunrise               06:12   Azim. = 102.3°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:49   Altit.= 47.1°
+    Sunset                17:26   Azim. = 257.9° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:51   00:25 h after set
+    End naut. twilight    18:19   00:53 h after set
+    End astr. twilight    18:48   01:21 h after set
+    Minimum altitude at   23:49   -69.4°
+    Length of Day:   11 h 13.9 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Tue 2026 Feb 17 at 12:03 UT
+    Moon Age 3.141 d = 03 d 03 h 23 m 
+    waxing crescent
+    Next New Moon:  Thu 2026 Mar 19 at  1:25 UT
+    Illum. Frac.  = 11.4 % (+)
+    Bright limb angle   = -171° to zenith
+    Distance from Earth = 374520 km,  Diameter = 32.24'
+    Declin.= 7.1141° N =  7° 07' N
+    Right Asc. RA = 10.1543° = 0h 40m 37.0s
+    Ecl. Long. L  = 11.3803° = 11° 22.8' (Aries 11° 22.8')
+    GHA    = 12.73° = 12° 44.0'
+    LHA    = 48.93° = 48° 56.0'
+    Alt.= 37.5°
+    Az.= 252.4°  (WSW)
+    Rise     07:42   Azim. = 84.9° (E)
+    Transit  14:03   Altit.= 64.0°
+    Set      20:36   Azim. = 279.4° (W)   Above horizon:   12:54 hours
+    Geocentric Elong. = 39.46°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Thu Mar 19 17:46:00 GMT-06:00 2026
+  UT:        Thu Mar 19 15:46:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461119.1569444444
+  Equation of Time        = -7:42 min   = prev. day  +17.5 s
+  Local Sidereal Time     = 89.9032° = 89° 54.2' = 5h 59m 36.8s
+  Greenwich Sidereal Time = 53.7032° = 53° 42.2' = 3h 34m 48.8s
+  SUN:
+    Right Asc. RA = 359.1313° = 23h 56m 31.5s
+    Ecl. Long. L  = 359.0531° = 359° 03.2' (Pisces 29° 03.2')
+    Distance from Earth = 0.995605 AU,  Diameter = 32.13'
+    Declin.= 0.3766° S = 0° 22.6' S
+    GHA    = 54.57° = 54° 33.9'
+    LHA    = 90.77° = 90° 45.9'
+    Alt.= -1.07° = -1° 4.4'
+    Az.= 269.7°  (W)
+    Begin astr. twilight  04:19   01:21 h before rise
+    Begin naut. twilight  04:48   00:53 h before rise
+    Begin civil twilight  05:16   00:24 h before rise
+    Sunrise               05:40   Azim. = 90.1°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:43   Altit.= 57.4°
+    Sunset                17:46   Azim. = 270.1° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:10   00:24 h after set
+    End naut. twilight    18:39   00:53 h after set
+    End astr. twilight    19:07   01:21 h after set
+    Minimum altitude at   23:43   -59.0°
+    Length of Day:   12 h 5.8 min = length of prev. day  + 2.0 min
+  MOON:
+    Prev. New Moon: Thu 2026 Mar 19 at  1:25 UT
+    Moon Age 0.5979 d = 00 d 14 h 21 m 
+    waxing crescent
+    Next New Moon:  Fri 2026 Apr 17 at 11:51 UT
+    Illum. Frac.  = 0.5 % (+)
+    Bright limb angle   = -189° to zenith
+    Distance from Earth = 371165 km,  Diameter = 32.26'
+    Declin.= 4.9857° N =  4° 59' N
+    Right Asc. RA = 4.9261° = 0h 19m 42.3s
+    Ecl. Long. L  = 6.8657° = 6° 51.9' (Aries 6° 51.9')
+    GHA    = 48.38° = 48° 22.5'
+    LHA    = 84.58° = 84° 34.5'
+    Alt.= 6.4°
+    Az.= 271.4°  (W)
+    Rise     05:41   Azim. = 88.1° (E)
+    Transit  11:56   Altit.= 61.1°
+    Set      18:21   Azim. = 276.0° (W)   Above horizon:   12:40 hours
+    Geocentric Elong. = 8.19°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Mar 20 17:47:00 GMT-06:00 2026
+  UT:        Fri Mar 20 15:47:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461120.157638889
+  Equation of Time        = -7:25 min   = prev. day  +17.7 s
+  Local Sidereal Time     = 91.1396° = 91° 08.4' = 6h 04m 33.5s
+  Greenwich Sidereal Time = 54.9396° = 54° 56.4' = 3h 39m 45.5s
+  SUN:
+    Right Asc. RA = 0.0438° = 0h 00m 10.5s
+    Ecl. Long. L  = 0.0478° = 0° 02.9' (Aries 0° 02.9')
+    Distance from Earth = 0.995884 AU,  Diameter = 32.12'
+    Declin.= 0.019° N = 0° 01.1' N
+    GHA    = 54.89° = 54° 53.3'
+    LHA    = 91.09° = 91° 05.3'
+    Alt.= -1.14° = -1° 8.4'
+    Az.= 270.2°  (W)
+    Begin astr. twilight  04:18   01:21 h before rise
+    Begin naut. twilight  04:47   00:53 h before rise
+    Begin civil twilight  05:15   00:24 h before rise
+    Sunrise               05:39   Azim. = 89.7°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:43   Altit.= 57.8°
+    Sunset                17:47   Azim. = 270.6° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:11   00:24 h after set
+    End naut. twilight    18:40   00:53 h after set
+    End astr. twilight    19:08   01:21 h after set
+    Minimum altitude at   23:43   -58.6°
+    Length of Day:   12 h 7.7 min = length of prev. day  + 2.0 min
+  MOON:
+    Prev. New Moon: Thu 2026 Mar 19 at  1:25 UT
+    Moon Age 1.5986 d = 01 d 14 h 22 m 
+    waxing crescent
+    Next New Moon:  Fri 2026 Apr 17 at 11:51 UT
+    Illum. Frac.  = 3.4 % (+)
+    Bright limb angle   = -181° to zenith
+    Distance from Earth = 368660 km,  Diameter = 32.61'
+    Declin.= 11.5137° N = 11° 31' N
+    Right Asc. RA = 18.3004° = 1h 13m 12.1s
+    Ecl. Long. L  = 21.1371° = 21° 08.2' (Aries 21° 08.2')
+    GHA    = 36.76° = 36° 45.5'
+    LHA    = 72.96° = 72° 57.5'
+    Alt.= 19.6°
+    Az.= 271.1°  (W)
+    Rise     06:12   Azim. = 80.2° (E)
+    Transit  12:44   Altit.= 68.0°
+    Set      19:28   Azim. = 284.0° (WNW)   Above horizon:   13:17 hours
+    Geocentric Elong. = 21.37°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sat Mar 21 17:48:00 GMT-06:00 2026
+  UT:        Sat Mar 21 15:48:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461121.158333333
+  Equation of Time        = -7:07 min   = prev. day  +17.8 s
+  Local Sidereal Time     = 92.3759° = 92° 22.6' = 6h 09m 30.2s
+  Greenwich Sidereal Time = 56.1759° = 56° 10.6' = 3h 44m 42.2s
+  SUN:
+    Right Asc. RA = 0.9559° = 0h 03m 49.4s
+    Ecl. Long. L  = 1.0419° = 1° 02.5' (Aries 1° 02.5')
+    Distance from Earth = 0.996165 AU,  Diameter = 32.11'
+    Declin.= 0.4144° N = 0° 24.9' N
+    GHA    = 55.21° = 55° 12.8'
+    LHA    = 91.41° = 91° 24.8'
+    Alt.= -1.21° = -1° 12.4'
+    Az.= 270.7°  (W)
+    Begin astr. twilight  04:16   01:21 h before rise
+    Begin naut. twilight  04:45   00:53 h before rise
+    Begin civil twilight  05:14   00:24 h before rise
+    Sunrise               05:38   Azim. = 89.2°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:42   Altit.= 58.2°
+    Sunset                17:48   Azim. = 271.0° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:12   00:24 h after set
+    End naut. twilight    18:40   00:53 h after set
+    End astr. twilight    19:09   01:21 h after set
+    Minimum altitude at   23:42   -58.2°
+    Length of Day:   12 h 9.7 min = length of prev. day  + 2.0 min
+  MOON:
+    Prev. New Moon: Thu 2026 Mar 19 at  1:25 UT
+    Moon Age 2.5993 d = 02 d 14 h 23 m 
+    waxing crescent
+    Next New Moon:  Fri 2026 Apr 17 at 11:51 UT
+    Illum. Frac.  = 8.9 % (+)
+    Bright limb angle   = -179° to zenith
+    Distance from Earth = 367294 km,  Diameter = 32.85'
+    Declin.= 17.5038° N = 17° 30' N
+    Right Asc. RA = 32.4437° = 2h 09m 46.5s
+    Ecl. Long. L  = 35.5699° = 35° 34.2' (Taurus 5° 34.2')
+    GHA    = 24.43° = 24° 25.9'
+    LHA    = 60.63° = 60° 37.9'
+    Alt.= 33.0°
+    Az.= 270.7°  (W)
+    Rise     06:45   Azim. = 72.6° (ENE)
+    Transit  13:36   Altit.= 74.5°
+    Set      20:38   Azim. = 291.4° (WNW)   Above horizon:   13:53 hours
+    Geocentric Elong. = 34.77°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Apr 17 18:06:00 GMT-06:00 2026
+  UT:        Fri Apr 17 16:06:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461148.1708333334
+  Equation of Time        = 0:28 min   = prev. day  +13.8 s
+  Local Sidereal Time     = 123.5007° = 123° 30.0' = 8h 14m 0.2s
+  Greenwich Sidereal Time = 87.3007° = 87° 18.0' = 5h 49m 12.2s
+  SUN:
+    Right Asc. RA = 25.6843° = 1h 42m 44.2s
+    Ecl. Long. L  = 27.6626° = 27° 39.8' (Aries 27° 39.8')
+    Distance from Earth = 1.003854 AU,  Diameter = 31.86'
+    Declin.= 10.6416° N = 10° 38.5' N
+    GHA    = 61.61° = 61° 36.6'
+    LHA    = 97.81° = 97° 48.6'
+    Alt.= -1.14° = -1° 8.4'
+    Az.= 282.8°  (WNW)
+    Begin astr. twilight  03:39   01:26 h before rise
+    Begin naut. twilight  04:10   00:55 h before rise
+    Begin civil twilight  04:39   00:25 h before rise
+    Sunrise               05:05   Azim. = 77.1°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:35   Altit.= 68.5°
+    Sunset                18:06   Azim. = 283.1° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:31   00:25 h after set
+    End naut. twilight    19:00   00:55 h after set
+    End astr. twilight    19:31   01:26 h after set
+    Minimum altitude at   23:35   -48.0°
+    Length of Day:   13 h 1.0 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Fri 2026 Apr 17 at 11:51 UT
+    Moon Age 0.1771 d = 00 d 04 h 15 m 
+    new
+    Next New Moon:  Sat 2026 May 16 at 20:02 UT
+    Illum. Frac.  = 0.1 % (+)
+    Bright limb angle   = -228° to zenith
+    Distance from Earth = 363644 km,  Diameter = 32.88'
+    Declin.= 15.2828° N = 15° 17' N
+    Right Asc. RA = 25.8843° = 1h 43m 32.2s
+    Ecl. Long. L  = 30.087° = 30° 05.2' (Taurus 0° 05.2')
+    GHA    = 60.78° = 60° 46.7'
+    LHA    = 96.98° = 96° 58.7'
+    Alt.= 1.6°
+    Az.= 286.6°  (WNW)
+    Rise     04:41   Azim. = 76.2° (ENE)
+    Transit  11:23   Altit.= 71.5°
+    Set      18:17   Azim. = 288.0° (WNW)   Above horizon:   13:36 hours
+    Geocentric Elong. = 4.71°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sat Apr 18 18:06:00 GMT-06:00 2026
+  UT:        Sat Apr 18 16:06:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461149.1708333334
+  Equation of Time        = 0:42 min   = prev. day  +13.4 s
+  Local Sidereal Time     = 124.4863° = 124° 29.2' = 8h 17m 56.7s
+  Greenwich Sidereal Time = 88.2863° = 88° 17.2' = 5h 53m 8.7s
+  SUN:
+    Right Asc. RA = 26.614° = 1h 46m 27.4s
+    Ecl. Long. L  = 28.6403° = 28° 38.4' (Aries 28° 38.4')
+    Distance from Earth = 1.004132 AU,  Diameter = 31.86'
+    Declin.= 10.9907° N = 10° 59.4' N
+    GHA    = 61.67° = 61° 39.9'
+    LHA    = 97.87° = 97° 51.9'
+    Alt.= -1.0° = 0° 59.8'
+    Az.= 283.1°  (WNW)
+    Begin astr. twilight  03:38   01:26 h before rise
+    Begin naut. twilight  04:08   00:55 h before rise
+    Begin civil twilight  04:38   00:25 h before rise
+    Sunrise               05:03   Azim. = 76.7°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:35   Altit.= 68.8°
+    Sunset                18:06   Azim. = 283.5° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:32   00:25 h after set
+    End naut. twilight    19:01   00:55 h after set
+    End astr. twilight    19:32   01:26 h after set
+    Minimum altitude at   23:35   -47.6°
+    Length of Day:   13 h 2.8 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Fri 2026 Apr 17 at 11:51 UT
+    Moon Age 1.1771 d = 01 d 04 h 15 m 
+    waxing crescent
+    Next New Moon:  Sat 2026 May 16 at 20:02 UT
+    Illum. Frac.  = 2.1 % (+)
+    Bright limb angle   = -185° to zenith
+    Distance from Earth = 362017 km,  Diameter = 33.17'
+    Declin.= 20.8083° N = 20° 49' N
+    Right Asc. RA = 40.931° = 2h 43m 43.4s
+    Ecl. Long. L  = 44.9326° = 44° 56.0' (Taurus 14° 56.0')
+    GHA    = 47.29° = 47° 17.6'
+    LHA    = 83.49° = 83° 29.6'
+    Alt.= 15.2°
+    Az.= 284.9°  (WNW)
+    Rise     05:17   Azim. = 68.8° (ENE)
+    Transit  12:18   Altit.= 77.6°
+    Set      19:30   Azim. = 295.0° (WNW)   Above horizon:   14:13 hours
+    Geocentric Elong. = 16.94°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sun Apr 19 18:07:00 GMT-06:00 2026
+  UT:        Sun Apr 19 16:07:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461150.171527778
+  Equation of Time        = 0:55 min   = prev. day  +13.0 s
+  Local Sidereal Time     = 125.7227° = 125° 43.4' = 8h 22m 53.4s
+  Greenwich Sidereal Time = 89.5227° = 89° 31.4' = 5h 58m 5.4s
+  SUN:
+    Right Asc. RA = 27.5461° = 1h 50m 11.1s
+    Ecl. Long. L  = 29.6181° = 29° 37.1' (Aries 29° 37.1')
+    Distance from Earth = 1.004409 AU,  Diameter = 31.85'
+    Declin.= 11.337° N = 11° 20.2' N
+    GHA    = 61.97° = 61° 58.2'
+    LHA    = 98.17° = 98° 10.2'
+    Alt.= -1.06° = -1° 3.6'
+    Az.= 283.6°  (WNW)
+    Begin astr. twilight  03:36   01:26 h before rise
+    Begin naut. twilight  04:07   00:55 h before rise
+    Begin civil twilight  04:37   00:25 h before rise
+    Sunrise               05:02   Azim. = 76.3°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:34   Altit.= 69.2°
+    Sunset                18:07   Azim. = 283.9° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:32   00:25 h after set
+    End naut. twilight    19:02   00:55 h after set
+    End astr. twilight    19:33   01:26 h after set
+    Minimum altitude at   23:34   -47.3°
+    Length of Day:   13 h 4.6 min = length of prev. day  + 1.8 min
+  MOON:
+    Prev. New Moon: Fri 2026 Apr 17 at 11:51 UT
+    Moon Age 2.1778 d = 02 d 04 h 16 m 
+    waxing crescent
+    Next New Moon:  Sat 2026 May 16 at 20:02 UT
+    Illum. Frac.  = 6.9 % (+)
+    Bright limb angle   = -178° to zenith
+    Distance from Earth = 361936 km,  Diameter = 33.3'
+    Declin.= 25.0552° N = 25° 03' N
+    Right Asc. RA = 57.0878° = 3h 48m 21.1s
+    Ecl. Long. L  = 59.8708° = 59° 52.2' (Taurus 29° 52.2')
+    GHA    = 33.02° = 33° 01.4'
+    LHA    = 69.22° = 69° 13.4'
+    Alt.= 28.9°
+    Az.= 282.7°  (WNW)
+    Rise     06:00   Azim. = 62.6° (ENE)
+    Transit  13:18   Altit.= 82.4°
+    Set      20:45   Azim. = 300.3° (WNW)   Above horizon:   14:45 hours
+    Geocentric Elong. = 30.64°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sat May 16 18:26:00 GMT-06:00 2026
+  UT:        Sat May 16 16:26:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461177.1847222224
+  Equation of Time        = 3:37 min  = prev. day  -1.1 s
+  Local Sidereal Time     = 157.0981° = 157° 05.9' = 10h 28m 23.6s
+  Greenwich Sidereal Time = 120.8981° = 120° 53.9' = 8h 03m 35.6s
+  SUN:
+    Right Asc. RA = 53.4971° = 3h 33m 59.3s
+    Ecl. Long. L  = 55.8244° = 55° 49.5' (Taurus 25° 49.5')
+    Distance from Earth = 1.011113 AU,  Diameter = 31.64'
+    Declin.= 19.2126° N = 19° 12.8' N
+    GHA    = 67.39° = 67° 23.6'
+    LHA    = 103.59° = 103° 35.6'
+    Alt.= -1.03° = -1° 1.7'
+    Az.= 293.2°  (WNW)
+    Begin astr. twilight  03:04   01:33 h before rise
+    Begin naut. twilight  03:39   00:59 h before rise
+    Begin civil twilight  04:11   00:27 h before rise
+    Sunrise               04:38   Azim. = 66.8°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:32   Altit.= 77.2°
+    Sunset                18:26   Azim. = 293.4° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:53   00:27 h after set
+    End naut. twilight    19:25   00:59 h after set
+    End astr. twilight    19:59   01:33 h after set
+    Minimum altitude at   23:32   -39.3°
+    Length of Day:   13 h 48.3 min = length of prev. day  + 1.3 min
+  MOON:
+    Prev. New Moon: Fri 2026 Apr 17 at 11:51 UT
+    Moon Age 29.191 d = 29 d 04 h 35 m 
+    new
+    Next New Moon:  Sat 2026 May 16 at 20:02 UT
+    Illum. Frac.  = 0.0 % (-)
+    Bright limb angle   = 87° to zenith
+    Distance from Earth = 358726 km,  Diameter = 33.3'
+    Declin.= 23.4426° N = 23° 27' N
+    Right Asc. RA = 49.0328° = 3h 16m 7.9s
+    Ecl. Long. L  = 53.6876° = 53° 41.3' (Taurus 23° 41.3')
+    GHA    = 70.92° = 70° 55.3'
+    LHA    = 107.12° = 107° 07.3'
+    Alt.= -1.4°
+    Az.= 298.7°  (WNW)
+    Rise     03:49   Azim. = 65.6° (ENE)
+    Transit  10:59   Altit.= 80.1°
+    Set      18:19   Azim. = 297.8° (WNW)   Above horizon:   14:30 hours
+    Geocentric Elong. = 5.35°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sun May 17 18:27:00 GMT-06:00 2026
+  UT:        Sun May 17 16:27:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461178.185416667
+  Equation of Time        = 3:35 min  = prev. day  -1.7 s
+  Local Sidereal Time     = 158.3345° = 158° 20.1' = 10h 33m 20.3s
+  Greenwich Sidereal Time = 122.1345° = 122° 08.1' = 8h 08m 32.3s
+  SUN:
+    Right Asc. RA = 54.4908° = 3h 37m 57.8s
+    Ecl. Long. L  = 56.7888° = 56° 47.3' (Taurus 26° 47.3')
+    Distance from Earth = 1.011324 AU,  Diameter = 31.63'
+    Declin.= 19.4381° N = 19° 26.3' N
+    GHA    = 67.64° = 67° 38.2'
+    LHA    = 103.84° = 103° 50.2'
+    Alt.= -1.09° = -1° 5.2'
+    Az.= 293.5°  (WNW)
+    Begin astr. twilight  03:04   01:33 h before rise
+    Begin naut. twilight  03:38   00:59 h before rise
+    Begin civil twilight  04:10   00:27 h before rise
+    Sunrise               04:37   Azim. = 66.5°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:32   Altit.= 77.4°
+    Sunset                18:27   Azim. = 293.6° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:53   00:27 h after set
+    End naut. twilight    19:26   00:59 h after set
+    End astr. twilight    20:00   01:34 h after set
+    Minimum altitude at   23:32   -39.0°
+    Length of Day:   13 h 49.6 min = length of prev. day  + 1.3 min
+  MOON:
+    Prev. New Moon: Sat 2026 May 16 at 20:02 UT
+    Moon Age 0.8507 d = 00 d 20 h 25 m 
+    waxing crescent
+    Next New Moon:  Mon 2026 Jun 15 at  2:57 UT
+    Illum. Frac.  = 1.1 % (+)
+    Bright limb angle   = -182° to zenith
+    Distance from Earth = 358127 km,  Diameter = 33.49'
+    Declin.= 26.72° N = 26° 43' N
+    Right Asc. RA = 66.0158° = 4h 24m 3.8s
+    Ecl. Long. L  = 68.902° = 68° 54.1' (Gemini 8° 54.1')
+    GHA    = 55.8° = 55° 48.3'
+    LHA    = 92.0° = 92° 00.3'
+    Alt.= 11.2°
+    Az.= 294.1°  (WNW)
+    Rise     04:37   Azim. = 60.3° (ENE)
+    Transit  12:02   Altit.= 84.2°
+    Set      19:34   Azim. = 301.9° (WNW)   Above horizon:   14:58 hours
+    Geocentric Elong. = 13.09°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Mon May 18 18:27:00 GMT-06:00 2026
+  UT:        Mon May 18 16:27:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461179.185416667
+  Equation of Time        = 3:33 min  = prev. day  -2.3 s
+  Local Sidereal Time     = 159.3201° = 159° 19.2' = 10h 37m 16.8s
+  Greenwich Sidereal Time = 123.1201° = 123° 07.2' = 8h 12m 28.8s
+  SUN:
+    Right Asc. RA = 55.4861° = 3h 41m 56.7s
+    Ecl. Long. L  = 57.7522° = 57° 45.1' (Taurus 27° 45.1')
+    Distance from Earth = 1.011531 AU,  Diameter = 31.62'
+    Declin.= 19.6579° N = 19° 39.5' N
+    GHA    = 67.63° = 67° 37.6'
+    LHA    = 103.83° = 103° 49.6'
+    Alt.= -0.95° = 0° 57.1'
+    Az.= 293.7°  (WNW)
+    Begin astr. twilight  03:03   01:34 h before rise
+    Begin naut. twilight  03:37   00:59 h before rise
+    Begin civil twilight  04:10   00:27 h before rise
+    Sunrise               04:36   Azim. = 66.2°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:32   Altit.= 77.7°
+    Sunset                18:27   Azim. = 293.9° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:54   00:27 h after set
+    End naut. twilight    19:27   01:00 h after set
+    End astr. twilight    20:01   01:34 h after set
+    Minimum altitude at   23:32   -38.8°
+    Length of Day:   13 h 50.9 min = length of prev. day  + 1.3 min
+  MOON:
+    Prev. New Moon: Sat 2026 May 16 at 20:02 UT
+    Moon Age 1.8507 d = 01 d 20 h 25 m 
+    waxing crescent
+    Next New Moon:  Mon 2026 Jun 15 at  2:57 UT
+    Illum. Frac.  = 5.2 % (+)
+    Bright limb angle   = -168° to zenith
+    Distance from Earth = 359314 km,  Diameter = 33.51'
+    Declin.= 28.0391° N = 28° 02' N
+    Right Asc. RA = 83.7028° = 5h 34m 48.7s
+    Ecl. Long. L  = 84.0795° = 84° 04.8' (Gemini 24° 04.8')
+    GHA    = 39.81° = 39° 48.5'
+    LHA    = 76.01° = 76° 00.5'
+    Alt.= 24.5°
+    Az.= 288.5°  (WNW)
+    Rise     05:34   Azim. = 57.1° (ENE)
+    Transit  13:08   Altit.= 86.1°
+    Set      20:46   Azim. = 303.6° (WNW)   Above horizon:   15:12 hours
+    Geocentric Elong. = 26.72°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Mon Jun 15 18:42:00 GMT-06:00 2026
+  UT:        Mon Jun 15 16:42:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461207.1958333333
+  Equation of Time        = -0:34 min  = prev. day  -12.8 s
+  Local Sidereal Time     = 190.6785° = 190° 40.7' = 12h 42m 42.8s
+  Greenwich Sidereal Time = 154.4785° = 154° 28.7' = 10h 17m 54.8s
+  SUN:
+    Right Asc. RA = 84.1223° = 5h 36m 29.3s
+    Ecl. Long. L  = 84.6043° = 84° 36.3' (Gemini 24° 36.3')
+    Distance from Earth = 1.015779 AU,  Diameter = 31.49'
+    Declin.= 23.3281° N = 23° 19.7' N
+    GHA    = 70.35° = 70° 21.0'
+    LHA    = 106.55° = 106° 33.0'
+    Alt.= -0.82° = 0° 49.4'
+    Az.= 298.3°  (WNW)
+    Begin astr. twilight  02:50   01:39 h before rise
+    Begin naut. twilight  03:27   01:03 h before rise
+    Begin civil twilight  04:01   00:28 h before rise
+    Sunrise               04:29   Azim. = 61.6°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:36   Altit.= 81.5°
+    Sunset                18:42   Azim. = 298.4° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:10   00:28 h after set
+    End naut. twilight    19:45   01:03 h after set
+    End astr. twilight    20:22   01:40 h after set
+    Minimum altitude at   23:36   -35.0°
+    Length of Day:   14 h 13.3 min = length of prev. day  + 0.3 min
+  MOON:
+    Prev. New Moon: Mon 2026 Jun 15 at  2:57 UT
+    Moon Age 0.5728 d = 00 d 13 h 45 m 
+    new
+    Next New Moon:  Tue 2026 Jul 14 at  9:47 UT
+    Illum. Frac.  = 0.5 % (+)
+    Bright limb angle   = -175° to zenith
+    Distance from Earth = 357591 km,  Diameter = 33.5'
+    Declin.= 27.7559° N = 27° 45' N
+    Right Asc. RA = 92.6408° = 6h 10m 33.8s
+    Ecl. Long. L  = 92.787° = 92° 47.2' (Cancer 2° 47.2')
+    GHA    = 61.34° = 61° 20.3'
+    LHA    = 97.54° = 97° 32.3'
+    Alt.= 7.5°
+    Az.= 297.5°  (WNW)
+    Rise     04:17   Azim. = 56.6° (ENE)
+    Transit  11:53   Altit.= 86.1°
+    Set      19:29   Azim. = 303.1° (WNW)   Above horizon:   15:12 hours
+    Geocentric Elong. = 9.26°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Tue Jun 16 18:43:00 GMT-06:00 2026
+  UT:        Tue Jun 16 16:43:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461208.1965277777
+  Equation of Time        = -0:47 min  = prev. day  -12.9 s
+  Local Sidereal Time     = 191.9149° = 191° 54.9' = 12h 47m 39.6s
+  Greenwich Sidereal Time = 155.7149° = 155° 42.9' = 10h 22m 51.6s
+  SUN:
+    Right Asc. RA = 85.1625° = 5h 40m 39.0s
+    Ecl. Long. L  = 85.56° = 85° 33.6' (Gemini 25° 33.6')
+    Distance from Earth = 1.01587 AU,  Diameter = 31.49'
+    Declin.= 23.3636° N = 23° 21.8' N
+    GHA    = 70.55° = 70° 32.8'
+    LHA    = 106.75° = 106° 44.8'
+    Alt.= -0.95° = 0° 56.7'
+    Az.= 298.4°  (WNW)
+    Begin astr. twilight  02:50   01:40 h before rise
+    Begin naut. twilight  03:27   01:03 h before rise
+    Begin civil twilight  04:01   00:28 h before rise
+    Sunrise               04:29   Azim. = 61.6°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:36   Altit.= 81.6°
+    Sunset                18:43   Azim. = 298.4° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:11   00:28 h after set
+    End naut. twilight    19:45   01:03 h after set
+    End astr. twilight    20:23   01:40 h after set
+    Minimum altitude at   23:36   -34.9°
+    Length of Day:   14 h 13.6 min = length of prev. day  + 0.2 min
+  MOON:
+    Prev. New Moon: Mon 2026 Jun 15 at  2:57 UT
+    Moon Age 1.5735 d = 01 d 13 h 46 m 
+    waxing crescent
+    Next New Moon:  Tue 2026 Jul 14 at  9:47 UT
+    Illum. Frac.  = 3.8 % (+)
+    Bright limb angle   = -154° to zenith
+    Distance from Earth = 359892 km,  Diameter = 33.4'
+    Declin.= 25.7341° N = 25° 44' N
+    Right Asc. RA = 110.1317° = 7h 20m 31.6s
+    Ecl. Long. L  = 107.9255° = 107° 55.5' (Cancer 17° 55.5')
+    GHA    = 45.78° = 45° 46.5'
+    LHA    = 81.98° = 81° 58.5'
+    Alt.= 18.7°
+    Az.= 288.8°  (WNW)
+    Rise     05:28   Azim. = 57.8° (ENE)
+    Transit  13:00   Altit.= 84.5°
+    Set      20:28   Azim. = 300.4° (WNW)   Above horizon:   15:00 hours
+    Geocentric Elong. = 22.63°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Jun 17 18:43:00 GMT-06:00 2026
+  UT:        Wed Jun 17 16:43:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461209.1965277777
+  Equation of Time        = -1:00 min  = prev. day  -13.0 s
+  Local Sidereal Time     = 192.9005° = 192° 54.0' = 12h 51m 36.1s
+  Greenwich Sidereal Time = 156.7005° = 156° 42.0' = 10h 26m 48.1s
+  SUN:
+    Right Asc. RA = 86.2023° = 5h 44m 48.6s
+    Ecl. Long. L  = 86.5149° = 86° 30.9' (Gemini 26° 30.9')
+    Distance from Earth = 1.015955 AU,  Diameter = 31.48'
+    Declin.= 23.3922° N = 23° 23.5' N
+    GHA    = 70.49° = 70° 29.5'
+    LHA    = 106.69° = 106° 41.5'
+    Alt.= -0.88° = 0° 53.0'
+    Az.= 298.4°  (WNW)
+    Begin astr. twilight  02:50   01:40 h before rise
+    Begin naut. twilight  03:27   01:03 h before rise
+    Begin civil twilight  04:01   00:28 h before rise
+    Sunrise               04:29   Azim. = 61.6°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:36   Altit.= 81.6°
+    Sunset                18:43   Azim. = 298.5° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:11   00:28 h after set
+    End naut. twilight    19:46   01:03 h after set
+    End astr. twilight    20:23   01:40 h after set
+    Minimum altitude at   23:36   -34.9°
+    Length of Day:   14 h 13.8 min = length of prev. day  + 0.2 min
+  MOON:
+    Prev. New Moon: Mon 2026 Jun 15 at  2:57 UT
+    Moon Age 2.5735 d = 02 d 13 h 46 m 
+    waxing crescent
+    Next New Moon:  Tue 2026 Jul 14 at  9:47 UT
+    Illum. Frac.  = 9.7 % (+)
+    Bright limb angle   = -145° to zenith
+    Distance from Earth = 363810 km,  Diameter = 33.13'
+    Declin.= 21.9551° N = 21° 57' N
+    Right Asc. RA = 126.4629° = 8h 25m 51.1s
+    Ecl. Long. L  = 122.7646° = 122° 45.9' (Leo 2° 45.9')
+    GHA    = 31.04° = 31° 02.5'
+    LHA    = 67.24° = 67° 14.5'
+    Alt.= 29.3°
+    Az.= 278.6°  (W)
+    Rise     06:42   Azim. = 61.5° (ENE)
+    Transit  14:02   Altit.= 80.9°
+    Set      21:16   Azim. = 295.5° (WNW)   Above horizon:   14:34 hours
+    Geocentric Elong. = 36.32°
+
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Tue Jul 14 18:43:00 GMT-06:00 2026
+  UT:        Tue Jul 14 16:43:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461236.1965277777
+  Equation of Time        = -5:56 min  = prev. day  -6.7 s
+  Local Sidereal Time     = 219.513° = 219° 30.8' = 14h 38m 3.1s
+  Greenwich Sidereal Time = 183.313° = 183° 18.8' = 12h 13m 15.1s
+  SUN:
+    Right Asc. RA = 114.0496° = 7h 36m 11.9s
+    Ecl. Long. L  = 112.2664° = 112° 16.0' (Cancer 22° 16.0')
+    Distance from Earth = 1.016492 AU,  Diameter = 31.47'
+    Declin.= 21.5984° N = 21° 35.9' N
+    GHA    = 69.26° = 69° 15.5'
+    LHA    = 105.46° = 105° 27.5'
+    Alt.= -0.87° = 0° 52.3'
+    Az.= 296.5°  (WNW)
+    Begin astr. twilight  03:03   01:37 h before rise
+    Begin naut. twilight  03:38   01:01 h before rise
+    Begin civil twilight  04:12   00:28 h before rise
+    Sunrise               04:40   Azim. = 63.6°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:41   Altit.= 80.0°
+    Sunset                18:43   Azim. = 296.3° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:10   00:27 h after set
+    End naut. twilight    19:44   01:01 h after set
+    End astr. twilight    20:19   01:37 h after set
+    Minimum altitude at   23:41   -36.5°
+    Length of Day:   14 h 3.0 min = length of prev. day  - 0.9 min
+  MOON:
+    Prev. New Moon: Tue 2026 Jul 14 at  9:47 UT
+    Moon Age 0.2888 d = 00 d 06 h 56 m 
+    new
+    Next New Moon:  Wed 2026 Aug 12 at 17:37 UT
+    Illum. Frac.  = 0.1 % (+)
+    Bright limb angle   = -171° to zenith
+    Distance from Earth = 360498 km,  Diameter = 33.19'
+    Declin.= 23.7358° N = 23° 44' N
+    Right Asc. RA = 118.4518° = 7h 53m 48.4s
+    Ecl. Long. L  = 116.3141° = 116° 18.8' (Cancer 26° 18.8')
+    GHA    = 64.39° = 64° 23.4'
+    LHA    = 100.59° = 100° 35.4'
+    Alt.= 3.2°
+    Az.= 295.6°  (WNW)
+    Rise     04:15   Azim. = 59.2° (ENE)
+    Transit  11:43   Altit.= 82.9°
+    Set      19:04   Azim. = 298.1° (WNW)   Above horizon:   14:49 hours
+    Geocentric Elong. = 4.98°
+
+
+
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Jul 15 18:42:00 GMT-06:00 2026
+  UT:        Wed Jul 15 16:42:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461237.1958333333
+  Equation of Time        = -6:02 min  = prev. day  -6.2 s
+  Local Sidereal Time     = 220.2479° = 220° 14.9' = 14h 40m 59.5s
+  Greenwich Sidereal Time = 184.0479° = 184° 02.9' = 12h 16m 11.5s
+  SUN:
+    Right Asc. RA = 115.0601° = 7h 40m 14.4s
+    Ecl. Long. L  = 113.2196° = 113° 13.2' (Cancer 23° 13.2')
+    Distance from Earth = 1.016445 AU,  Diameter = 31.47'
+    Declin.= 21.4408° N = 21° 26.4' N
+    GHA    = 68.98° = 68° 59.0'
+    LHA    = 105.18° = 105° 11.0'
+    Alt.= -0.75° = 0° 44.9'
+    Az.= 296.2°  (WNW)
+    Begin astr. twilight  03:03   01:37 h before rise
+    Begin naut. twilight  03:39   01:01 h before rise
+    Begin civil twilight  04:13   00:28 h before rise
+    Sunrise               04:40   Azim. = 63.8°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:41   Altit.= 79.9°
+    Sunset                18:42   Azim. = 296.1° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:10   00:27 h after set
+    End naut. twilight    19:43   01:01 h after set
+    End astr. twilight    20:19   01:37 h after set
+    Minimum altitude at   23:41   -36.6°
+    Length of Day:   14 h 2.1 min = length of prev. day  - 0.9 min
+  MOON:
+    Prev. New Moon: Tue 2026 Jul 14 at  9:47 UT
+    Moon Age 1.2881 d = 01 d 06 h 55 m 
+    waxing crescent
+    Next New Moon:  Wed 2026 Aug 12 at 17:37 UT
+    Illum. Frac.  = 2.4 % (+)
+    Bright limb angle   = -140° to zenith
+    Distance from Earth = 363641 km,  Diameter = 32.99'
+    Declin.= 19.0791° N = 19° 05' N
+    Right Asc. RA = 133.6427° = 8h 54m 34.2s
+    Ecl. Long. L  = 131.116° = 131° 07.0' (Leo 11° 07.0')
+    GHA    = 49.98° = 49° 58.9'
+    LHA    = 86.18° = 86° 10.9'
+    Alt.= 12.1°
+    Az.= 284.6°  (WNW)
+    Rise     05:30   Azim. = 64.2° (ENE)
+    Transit  12:43   Altit.= 78.4°
+    Set      19:48   Azim. = 292.2° (WNW)   Above horizon:   14:18 hours
+    Geocentric Elong. = 17.97°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Thu Jul 16 18:42:00 GMT-06:00 2026
+  UT:        Thu Jul 16 16:42:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461238.1958333333
+  Equation of Time        = -6:08 min  = prev. day  -5.7 s
+  Local Sidereal Time     = 221.2336° = 221° 14.0' = 14h 44m 56.1s
+  Greenwich Sidereal Time = 185.0336° = 185° 02.0' = 12h 20m 8.1s
+  SUN:
+    Right Asc. RA = 116.0692° = 7h 44m 16.6s
+    Ecl. Long. L  = 114.1735° = 114° 10.4' (Cancer 24° 10.4')
+    Distance from Earth = 1.016394 AU,  Diameter = 31.47'
+    Declin.= 21.2771° N = 21° 16.6' N
+    GHA    = 68.96° = 68° 57.6'
+    LHA    = 105.16° = 105° 09.6'
+    Alt.= -0.82° = 0° 49.2'
+    Az.= 296.1°  (WNW)
+    Begin astr. twilight  03:04   01:36 h before rise
+    Begin naut. twilight  03:40   01:01 h before rise
+    Begin civil twilight  04:13   00:28 h before rise
+    Sunrise               04:41   Azim. = 64.0°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:41   Altit.= 79.7°
+    Sunset                18:42   Azim. = 295.9° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    19:09   00:27 h after set
+    End naut. twilight    19:43   01:01 h after set
+    End astr. twilight    20:18   01:36 h after set
+    Minimum altitude at   23:41   -36.8°
+    Length of Day:   14 h 1.1 min = length of prev. day  - 1.0 min
+  MOON:
+    Prev. New Moon: Tue 2026 Jul 14 at  9:47 UT
+    Moon Age 2.2881 d = 02 d 06 h 55 m 
+    waxing crescent
+    Next New Moon:  Wed 2026 Aug 12 at 17:37 UT
+    Illum. Frac.  = 7.3 % (+)
+    Bright limb angle   = -132° to zenith
+    Distance from Earth = 368209 km,  Diameter = 32.65'
+    Declin.= 13.3922° N = 13° 24' N
+    Right Asc. RA = 148.1635° = 9h 52m 39.2s
+    Ecl. Long. L  = 145.5864° = 145° 35.2' (Leo 25° 35.2')
+    GHA    = 37.04° = 37° 02.2'
+    LHA    = 73.24° = 73° 14.2'
+    Alt.= 20.2°
+    Az.= 273.0°  (W)
+    Rise     06:43   Azim. = 70.8° (ENE)
+    Transit  13:38   Altit.= 72.6°
+    Set      20:25   Azim. = 285.2° (WNW)   Above horizon:   13:42 hours
+    Geocentric Elong. = 31.41°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Aug 12 18:22:00 GMT-06:00 2026
+  UT:        Wed Aug 12 16:22:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461265.1819444443
+  Equation of Time        = -5:02 min   = prev. day  +10.1 s
+  Local Sidereal Time     = 242.8324° = 242° 49.9' = 16h 11m 19.8s
+  Greenwich Sidereal Time = 206.6324° = 206° 37.9' = 13h 46m 31.8s
+  SUN:
+    Right Asc. RA = 142.3916° = 9h 29m 34.0s
+    Ecl. Long. L  = 139.9827° = 139° 59.0' (Leo 19° 59.0')
+    Distance from Earth = 1.013308 AU,  Diameter = 31.57'
+    Declin.= 14.8189° N = 14° 49.1' N
+    GHA    = 64.24° = 64° 14.2'
+    LHA    = 100.44° = 100° 26.2'
+    Alt.= -0.63° = 0° 38.1'
+    Az.= 288.3°  (WNW)
+    Begin astr. twilight  03:29   01:29 h before rise
+    Begin naut. twilight  04:01   00:57 h before rise
+    Begin civil twilight  04:32   00:26 h before rise
+    Sunrise               04:58   Azim. = 71.7°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:40   Altit.= 73.4°
+    Sunset                18:22   Azim. = 288.1° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:48   00:26 h after set
+    End naut. twilight    19:19   00:57 h after set
+    End astr. twilight    19:51   01:29 h after set
+    Minimum altitude at   23:40   -43.1°
+    Length of Day:   13 h 24.3 min = length of prev. day  - 1.6 min
+  MOON:
+    Prev. New Moon: Tue 2026 Jul 14 at  9:47 UT
+    Moon Age 29.2742 d = 29 d 06 h 35 m 
+    new
+    Next New Moon:  Wed 2026 Aug 12 at 17:37 UT
+    Illum. Frac.  = 0.0 % (-)
+    Bright limb angle   = 105° to zenith
+    Distance from Earth = 366427 km,  Diameter = 32.6'
+    Declin.= 15.9615° N = 15° 58' N
+    Right Asc. RA = 141.2201° = 9h 24m 52.8s
+    Ecl. Long. L  = 139.2747° = 139° 16.5' (Leo 19° 16.5')
+    GHA    = 64.62° = 64° 37.3'
+    LHA    = 100.82° = 100° 49.3'
+    Alt.= -0.8°
+    Az.= 289.2°  (WNW)
+    Rise     04:19   Azim. = 67.4° (ENE)
+    Transit  11:23   Altit.= 75.6°
+    Set      18:19   Azim. = 288.8° (WNW)   Above horizon:   14:00 hours
+    Geocentric Elong. = 1.2°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Thu Aug 13 18:21:00 GMT-06:00 2026
+  UT:        Thu Aug 13 16:21:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461266.18125
+  Equation of Time        = -4:51 min   = prev. day  +10.6 s
+  Local Sidereal Time     = 243.5673° = 243° 34.0' = 16h 14m 16.2s
+  Greenwich Sidereal Time = 207.3673° = 207° 22.0' = 13h 49m 28.2s
+  SUN:
+    Right Asc. RA = 143.332° = 9h 33m 19.7s
+    Ecl. Long. L  = 140.942° = 140° 56.5' (Leo 20° 56.5')
+    Distance from Earth = 1.013135 AU,  Diameter = 31.57'
+    Declin.= 14.5148° N = 14° 30.9' N
+    GHA    = 64.03° = 64° 01.9'
+    LHA    = 100.23° = 100° 13.9'
+    Alt.= -0.63° = 0° 38.0'
+    Az.= 288.0°  (WNW)
+    Begin astr. twilight  03:30   01:29 h before rise
+    Begin naut. twilight  04:02   00:57 h before rise
+    Begin civil twilight  04:33   00:26 h before rise
+    Sunrise               04:59   Azim. = 72.1°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:40   Altit.= 73.1°
+    Sunset                18:21   Azim. = 287.7° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:47   00:26 h after set
+    End naut. twilight    19:18   00:56 h after set
+    End astr. twilight    19:50   01:28 h after set
+    Minimum altitude at   23:40   -43.4°
+    Length of Day:   13 h 22.6 min = length of prev. day  - 1.7 min
+  MOON:
+    Prev. New Moon: Wed 2026 Aug 12 at 17:37 UT
+    Moon Age 0.9471 d = 00 d 22 h 44 m 
+    waxing crescent
+    Next New Moon:  Fri 2026 Sep 11 at  3:26 UT
+    Illum. Frac.  = 1.2 % (+)
+    Bright limb angle   = -126° to zenith
+    Distance from Earth = 370085 km,  Diameter = 32.35'
+    Declin.= 9.8718° N =  9° 52' N
+    Right Asc. RA = 154.6371° = 10h 18m 32.9s
+    Ecl. Long. L  = 153.5777° = 153° 34.7' (Virgo 3° 34.7')
+    GHA    = 52.0° = 52° 00.1'
+    LHA    = 88.2° = 88° 12.1'
+    Alt.= 5.9°
+    Az.= 277.5°  (W)
+    Rise     05:30   Azim. = 74.6° (ENE)
+    Transit  12:15   Altit.= 69.4°
+    Set      18:53   Azim. = 281.4° (WNW)   Above horizon:   13:24 hours
+    Geocentric Elong. = 12.64°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Aug 14 18:20:00 GMT-06:00 2026
+  UT:        Fri Aug 14 16:20:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461267.1805555555
+  Equation of Time        = -4:40 min   = prev. day  +11.2 s
+  Local Sidereal Time     = 244.3023° = 244° 18.1' = 16h 17m 12.6s
+  Greenwich Sidereal Time = 208.1023° = 208° 06.1' = 13h 52m 24.6s
+  SUN:
+    Right Asc. RA = 144.2702° = 9h 37m 4.8s
+    Ecl. Long. L  = 141.9016° = 141° 54.1' (Leo 21° 54.1')
+    Distance from Earth = 1.012958 AU,  Diameter = 31.58'
+    Declin.= 14.2068° N = 14° 12.4' N
+    GHA    = 63.83° = 63° 49.7'
+    LHA    = 100.03° = 100° 01.7'
+    Alt.= -0.63° = 0° 38.1'
+    Az.= 287.6°  (WNW)
+    Begin astr. twilight  03:31   01:29 h before rise
+    Begin naut. twilight  04:03   00:57 h before rise
+    Begin civil twilight  04:33   00:26 h before rise
+    Sunrise               04:59   Azim. = 72.5°(ENE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:40   Altit.= 72.8°
+    Sunset                18:20   Azim. = 287.3° (WNW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:46   00:26 h after set
+    End naut. twilight    19:17   00:56 h after set
+    End astr. twilight    19:48   01:28 h after set
+    Minimum altitude at   23:40   -43.7°
+    Length of Day:   13 h 20.9 min = length of prev. day  - 1.7 min
+  MOON:
+    Prev. New Moon: Wed 2026 Aug 12 at 17:37 UT
+    Moon Age 1.9464 d = 01 d 22 h 43 m 
+    waxing crescent
+    Next New Moon:  Fri 2026 Sep 11 at  3:26 UT
+    Illum. Frac.  = 4.9 % (+)
+    Bright limb angle   = -122° to zenith
+    Distance from Earth = 374820 km,  Diameter = 32.01'
+    Declin.= 3.4386° N =  3° 26' N
+    Right Asc. RA = 167.7407° = 11h 10m 57.8s
+    Ecl. Long. L  = 167.5404° = 167° 32.4' (Virgo 17° 32.4')
+    GHA    = 40.19° = 40° 11.5'
+    LHA    = 76.39° = 76° 23.5'
+    Alt.= 12.5°
+    Az.= 265.7°  (W)
+    Rise     06:37   Azim. = 82.4° (E)
+    Transit  13:04   Altit.= 62.7°
+    Set      19:24   Azim. = 273.7° (W)   Above horizon:   12:47 hours
+    Geocentric Elong. = 25.68°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Sep 11 17:47:00 GMT-06:00 2026
+  UT:        Fri Sep 11 15:47:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461295.157638889
+  Equation of Time        = 3:26 min   = prev. day  +21.1 s
+  Local Sidereal Time     = 263.6278° = 263° 37.7' = 17h 34m 30.7s
+  Greenwich Sidereal Time = 227.4278° = 227° 25.7' = 15h 09m 42.7s
+  SUN:
+    Right Asc. RA = 169.8233° = 11h 19m 17.6s
+    Ecl. Long. L  = 168.9298° = 168° 55.8' (Virgo 18° 55.8')
+    Distance from Earth = 1.006684 AU,  Diameter = 31.77'
+    Declin.= 4.3802° N = 4° 22.8' N
+    GHA    = 57.6° = 57° 36.1'
+    LHA    = 93.8° = 93° 48.1'
+    Alt.= -0.7° = 0° 42.0'
+    Az.= 276.1°  (W)
+    Begin astr. twilight  03:54   01:22 h before rise
+    Begin naut. twilight  04:23   00:53 h before rise
+    Begin civil twilight  04:52   00:24 h before rise
+    Sunrise               05:16   Azim. = 84.1°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:32   Altit.= 63.0°
+    Sunset                17:47   Azim. = 275.7° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:11   00:24 h after set
+    End naut. twilight    18:40   00:53 h after set
+    End astr. twilight    19:09   01:22 h after set
+    Minimum altitude at   23:32   -53.4°
+    Length of Day:   12 h 30.4 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Fri 2026 Sep 11 at  3:26 UT
+    Moon Age 0.5144 d = 00 d 12 h 21 m 
+    new
+    Next New Moon:  Sat 2026 Oct 10 at 15:50 UT
+    Illum. Frac.  = 0.3 % (+)
+    Bright limb angle   = -106° to zenith
+    Distance from Earth = 378359 km,  Diameter = 31.59'
+    Declin.= 0.2884° S =  0° 17' S
+    Right Asc. RA = 174.0347° = 11h 36m 8.3s
+    Ecl. Long. L  = 175.4592° = 175° 27.6' (Virgo 25° 27.6')
+    GHA    = 52.5° = 52° 30.0'
+    LHA    = 88.7° = 88° 42.0'
+    Alt.= 0.5°
+    Az.= 269.1°  (W)
+    Rise     05:23   Azim. = 86.6° (E)
+    Transit  11:40   Altit.= 59.1°
+    Set      17:51   Azim. = 269.6° (W)   Above horizon:   12:29 hours
+    Geocentric Elong. = 6.91°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sat Sep 12 17:46:00 GMT-06:00 2026
+  UT:        Sat Sep 12 15:46:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461296.1569444444
+  Equation of Time        = 3:47 min   = prev. day  +21.2 s
+  Local Sidereal Time     = 264.3628° = 264° 21.8' = 17h 37m 27.1s
+  Greenwich Sidereal Time = 228.1628° = 228° 09.8' = 15h 12m 39.1s
+  SUN:
+    Right Asc. RA = 170.7199° = 11h 22m 52.8s
+    Ecl. Long. L  = 169.9018° = 169° 54.1' (Virgo 19° 54.1')
+    Distance from Earth = 1.006421 AU,  Diameter = 31.78'
+    Declin.= 3.9991° N = 3° 59.9' N
+    GHA    = 57.44° = 57° 26.4'
+    LHA    = 93.64° = 93° 38.4'
+    Alt.= -0.76° = 0° 45.9'
+    Az.= 275.7°  (W)
+    Begin astr. twilight  03:55   01:22 h before rise
+    Begin naut. twilight  04:24   00:53 h before rise
+    Begin civil twilight  04:53   00:24 h before rise
+    Sunrise               05:17   Azim. = 84.5°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:31   Altit.= 62.6°
+    Sunset                17:46   Azim. = 275.3° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:10   00:24 h after set
+    End naut. twilight    18:39   00:53 h after set
+    End astr. twilight    19:08   01:22 h after set
+    Minimum altitude at   23:31   -53.8°
+    Length of Day:   12 h 28.5 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Fri 2026 Sep 11 at  3:26 UT
+    Moon Age 1.5137 d = 01 d 12 h 20 m 
+    waxing crescent
+    Next New Moon:  Sat 2026 Oct 10 at 15:50 UT
+    Illum. Frac.  = 2.7 % (+)
+    Bright limb angle   = -114° to zenith
+    Distance from Earth = 382832 km,  Diameter = 31.28'
+    Declin.= 6.5668° S =  6° 34' S
+    Right Asc. RA = 186.4618° = 12h 25m 50.8s
+    Ecl. Long. L  = 188.8772° = 188° 52.6' (Libra 8° 52.6')
+    GHA    = 41.32° = 41° 19.3'
+    LHA    = 77.52° = 77° 31.3'
+    Alt.= 6.2°
+    Az.= 257.8°  (WSW)
+    Rise     06:25   Azim. = 94.4° (E)
+    Transit  12:26   Altit.= 52.5°
+    Set      18:20   Azim. = 262.1° (W)   Above horizon:   11:55 hours
+    Geocentric Elong. = 19.25°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sun Sep 13 17:44:00 GMT-06:00 2026
+  UT:        Sun Sep 13 15:44:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461297.1555555556
+  Equation of Time        = 4:08 min   = prev. day  +21.3 s
+  Local Sidereal Time     = 264.8471° = 264° 50.8' = 17h 39m 23.3s
+  Greenwich Sidereal Time = 228.6471° = 228° 38.8' = 15h 14m 35.3s
+  SUN:
+    Right Asc. RA = 171.6156° = 11h 26m 27.7s
+    Ecl. Long. L  = 170.8737° = 170° 52.4' (Virgo 20° 52.4')
+    Distance from Earth = 1.006157 AU,  Diameter = 31.79'
+    Declin.= 3.6171° N = 3° 37.0' N
+    GHA    = 57.03° = 57° 01.7'
+    LHA    = 93.23° = 93° 13.7'
+    Alt.= -0.62° = 0° 37.1'
+    Az.= 275.1°  (W)
+    Begin astr. twilight  03:55   01:22 h before rise
+    Begin naut. twilight  04:24   00:53 h before rise
+    Begin civil twilight  04:53   00:24 h before rise
+    Sunrise               05:18   Azim. = 85.0°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:31   Altit.= 62.3°
+    Sunset                17:44   Azim. = 274.8° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    18:09   00:24 h after set
+    End naut. twilight    18:37   00:53 h after set
+    End astr. twilight    19:06   01:22 h after set
+    Minimum altitude at   23:31   -54.2°
+    Length of Day:   12 h 26.6 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Fri 2026 Sep 11 at  3:26 UT
+    Moon Age 2.5123 d = 02 d 12 h 18 m 
+    waxing crescent
+    Next New Moon:  Sat 2026 Oct 10 at 15:50 UT
+    Illum. Frac.  = 7.2 % (+)
+    Bright limb angle   = -114° to zenith
+    Distance from Earth = 387614 km,  Diameter = 30.94'
+    Declin.= 12.4032° S = 12° 24' S
+    Right Asc. RA = 198.356° = 13h 13m 25.4s
+    Ecl. Long. L  = 201.9641° = 201° 57.8' (Libra 21° 57.8')
+    GHA    = 29.93° = 29° 55.5'
+    LHA    = 66.13° = 66° 07.5'
+    Alt.= 12.0°
+    Az.= 246.4°  (WSW)
+    Rise     07:27   Azim. = 101.9° (ESE)
+    Transit  13:11   Altit.= 46.2°
+    Set      18:49   Azim. = 255.0° (WSW)   Above horizon:   11:22 hours
+    Geocentric Elong. = 31.33°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sat Oct 10 17:09:00 GMT-06:00 2026
+  UT:        Sat Oct 10 15:09:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461324.13125
+  Equation of Time        = 13:03 min   = prev. day  +16.1 s
+  Local Sidereal Time     = 282.6856° = 282° 41.1' = 18h 50m 44.5s
+  Greenwich Sidereal Time = 246.4856° = 246° 29.1' = 16h 25m 56.5s
+  SUN:
+    Right Asc. RA = 195.9771° = 13h 03m 54.5s
+    Ecl. Long. L  = 197.3311° = 197° 19.9' (Libra 17° 19.9')
+    Distance from Earth = 0.998578 AU,  Diameter = 32.03'
+    Declin.= 6.8049° S = 6° 48.3' S
+    GHA    = 50.51° = 50° 30.3'
+    LHA    = 86.71° = 86° 42.3'
+    Alt.= -0.58° = 0° 35.1'
+    Az.= 262.8°  (W)
+    Begin astr. twilight  04:14   01:21 h before rise
+    Begin naut. twilight  04:42   00:53 h before rise
+    Begin civil twilight  05:10   00:24 h before rise
+    Sunrise               05:35   Azim. = 97.2°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:22   Altit.= 51.8°
+    Sunset                17:09   Azim. = 262.5° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:34   00:25 h after set
+    End naut. twilight    18:02   00:53 h after set
+    End astr. twilight    18:30   01:21 h after set
+    Minimum altitude at   23:22   -64.6°
+    Length of Day:   11 h 34.7 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Fri 2026 Sep 11 at  3:26 UT
+    Moon Age 29.488 d = 29 d 11 h 43 m 
+    new
+    Next New Moon:  Sat 2026 Oct 10 at 15:50 UT
+    Illum. Frac.  = 0.0 % (-)
+    Bright limb angle   = -30° to zenith
+    Distance from Earth = 387272 km,  Diameter = 30.82'
+    Declin.= 10.1926° S = 10° 12' S
+    Right Asc. RA = 193.1087° = 12h 52m 26.1s
+    Ecl. Long. L  = 196.9843° = 196° 59.1' (Libra 16° 59.1')
+    GHA    = 52.31° = 52° 18.9'
+    LHA    = 88.51° = 88° 30.9'
+    Alt.= -5.1°
+    Az.= 260.5°  (W)
+    Rise     05:12   Azim. = 98.6° (E)
+    Transit  11:03   Altit.= 48.9°
+    Set      16:48   Azim. = 258.0° (WSW)   Above horizon:   11:36 hours
+    Geocentric Elong. = 3.83°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Sun Oct 11 17:08:00 GMT-06:00 2026
+  UT:        Sun Oct 11 15:08:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461325.1305555557
+  Equation of Time        = 13:18 min   = prev. day  +15.6 s
+  Local Sidereal Time     = 283.4206° = 283° 25.2' = 18h 53m 40.9s
+  Greenwich Sidereal Time = 247.2206° = 247° 13.2' = 16h 28m 52.9s
+  SUN:
+    Right Asc. RA = 196.8972° = 13h 07m 35.3s
+    Ecl. Long. L  = 198.3191° = 198° 19.1' (Libra 18° 19.1')
+    Distance from Earth = 0.998292 AU,  Diameter = 32.04'
+    Declin.= 7.1818° S = 7° 10.9' S
+    GHA    = 50.32° = 50° 19.2'
+    LHA    = 86.52° = 86° 31.2'
+    Alt.= -0.63° = 0° 37.7'
+    Az.= 262.4°  (W)
+    Begin astr. twilight  04:14   01:21 h before rise
+    Begin naut. twilight  04:43   00:53 h before rise
+    Begin civil twilight  05:11   00:24 h before rise
+    Sunrise               05:35   Azim. = 97.7°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:22   Altit.= 51.4°
+    Sunset                17:08   Azim. = 262.1° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:33   00:25 h after set
+    End naut. twilight    18:01   00:53 h after set
+    End astr. twilight    18:29   01:21 h after set
+    Minimum altitude at   23:22   -65.0°
+    Length of Day:   11 h 32.8 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Sat 2026 Oct 10 at 15:50 UT
+    Moon Age 0.9706 d = 00 d 23 h 18 m 
+    waxing crescent
+    Next New Moon:  Mon 2026 Nov  9 at  7:04 UT
+    Illum. Frac.  = 1.0 % (+)
+    Bright limb angle   = -104° to zenith
+    Distance from Earth = 391139 km,  Diameter = 30.57'
+    Declin.= 15.6131° S = 15° 37' S
+    Right Asc. RA = 205.5838° = 13h 42m 20.1s
+    Ecl. Long. L  = 209.8749° = 209° 52.5' (Libra 29° 52.5')
+    GHA    = 41.06° = 41° 03.8'
+    LHA    = 77.26° = 77° 15.8'
+    Alt.= 1.6°
+    Az.= 250.1°  (WSW)
+    Rise     06:13   Azim. = 105.7° (ESE)
+    Transit  11:49   Altit.= 43.1°
+    Set      17:19   Azim. = 251.5° (WSW)   Above horizon:   11:06 hours
+    Geocentric Elong. = 12.38°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Mon Oct 12 17:07:00 GMT-06:00 2026
+  UT:        Mon Oct 12 15:07:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461326.1298611113
+  Equation of Time        = 13:33 min   = prev. day  +15.1 s
+  Local Sidereal Time     = 284.1555° = 284° 09.3' = 18h 56m 37.3s
+  Greenwich Sidereal Time = 247.9555° = 247° 57.3' = 16h 31m 49.3s
+  SUN:
+    Right Asc. RA = 197.8193° = 13h 11m 16.6s
+    Ecl. Long. L  = 199.3075° = 199° 18.5' (Libra 19° 18.5')
+    Distance from Earth = 0.998006 AU,  Diameter = 32.05'
+    Declin.= 7.5571° S = 7° 33.4' S
+    GHA    = 50.13° = 50° 08.0'
+    LHA    = 86.33° = 86° 20.0'
+    Alt.= -0.67° = 0° 40.3'
+    Az.= 262.0°  (W)
+    Begin astr. twilight  04:15   01:21 h before rise
+    Begin naut. twilight  04:43   00:53 h before rise
+    Begin civil twilight  05:12   00:24 h before rise
+    Sunrise               05:36   Azim. = 98.1°(E), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:22   Altit.= 51.1°
+    Sunset                17:07   Azim. = 261.6° (W), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:32   00:25 h after set
+    End naut. twilight    18:00   00:53 h after set
+    End astr. twilight    18:28   01:21 h after set
+    Minimum altitude at   23:22   -65.4°
+    Length of Day:   11 h 30.9 min = length of prev. day  - 1.9 min
+  MOON:
+    Prev. New Moon: Sat 2026 Oct 10 at 15:50 UT
+    Moon Age 1.9699 d = 01 d 23 h 17 m 
+    waxing crescent
+    Next New Moon:  Mon 2026 Nov  9 at  7:04 UT
+    Illum. Frac.  = 4.1 % (+)
+    Bright limb angle   = -112° to zenith
+    Distance from Earth = 394948 km,  Diameter = 30.33'
+    Declin.= 20.2606° S = 20° 16' S
+    Right Asc. RA = 217.9025° = 14h 31m 36.6s
+    Ecl. Long. L  = 222.5208° = 222° 31.3' (Scorpio 12° 31.3')
+    GHA    = 29.47° = 29° 28.2'
+    LHA    = 65.67° = 65° 40.2'
+    Alt.= 7.6°
+    Az.= 239.8°  (WSW)
+    Rise     07:14   Azim. = 112.0° (ESE)
+    Transit  12:35   Altit.= 38.1°
+    Set      17:52   Azim. = 245.7° (WSW)   Above horizon:   10:38 hours
+    Geocentric Elong. = 23.69°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Mon Nov 09 16:40:00 GMT-06:00 2026
+  UT:        Mon Nov 09 14:40:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461354.111111111
+  Equation of Time        = 16:10 min  = prev. day  -4.8 s
+  Local Sidereal Time     = 304.9852° = 304° 59.1' = 20h 19m 56.4s
+  Greenwich Sidereal Time = 268.7852° = 268° 47.1' = 17h 55m 8.4s
+  SUN:
+    Right Asc. RA = 224.7445° = 14h 58m 58.7s
+    Ecl. Long. L  = 227.2093° = 227° 12.6' (Scorpio 17° 12.6')
+    Distance from Earth = 0.990518 AU,  Diameter = 32.29'
+    Declin.= 16.9711° S = 16° 58.3' S
+    GHA    = 44.04° = 44° 02.2'
+    LHA    = 80.24° = 80° 14.2'
+    Alt.= -0.74° = 0° 44.6'
+    Az.= 250.8°  (WSW)
+    Begin astr. twilight  04:34   01:24 h before rise
+    Begin naut. twilight  05:03   00:55 h before rise
+    Begin civil twilight  05:32   00:26 h before rise
+    Sunrise               05:58   Azim. = 109.4°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:19   Altit.= 41.6°
+    Sunset                16:40   Azim. = 250.5° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:05   00:25 h after set
+    End naut. twilight    17:35   00:55 h after set
+    End astr. twilight    18:03   01:23 h after set
+    Minimum altitude at   23:19   -74.9°
+    Length of Day:   10 h 41.8 min = length of prev. day  - 1.6 min
+  MOON:
+    Prev. New Moon: Mon 2026 Nov  9 at  7:04 UT
+    Moon Age 0.3164 d = 00 d 07 h 36 m 
+    new
+    Next New Moon:  Wed 2026 Dec  9 at  0:52 UT
+    Illum. Frac.  = 0.1 % (+)
+    Bright limb angle   = -76° to zenith
+    Distance from Earth = 398510 km,  Diameter = 29.96'
+    Declin.= 22.7465° S = 22° 45' S
+    Right Asc. RA = 226.0579° = 15h 04m 13.9s
+    Ecl. Long. L  = 230.8045° = 230° 48.3' (Scorpio 20° 48.3')
+    GHA    = 41.84° = 41° 50.3'
+    LHA    = 78.04° = 78° 02.3'
+    Alt.= -2.9°
+    Az.= 244.6°  (WSW)
+    Rise     06:03   Azim. = 115.1° (ESE)
+    Transit  11:17   Altit.= 35.5°
+    Set      16:27   Azim. = 242.9° (WSW)   Above horizon:   10:24 hours
+    Geocentric Elong. = 6.13°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Tue Nov 10 16:39:00 GMT-06:00 2026
+  UT:        Tue Nov 10 14:39:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461355.1104166666
+  Equation of Time        = 16:05 min  = prev. day  -5.6 s
+  Local Sidereal Time     = 305.7201° = 305° 43.2' = 20h 22m 52.8s
+  Greenwich Sidereal Time = 269.5201° = 269° 31.2' = 17h 58m 4.8s
+  SUN:
+    Right Asc. RA = 225.753° = 15h 03m 0.7s
+    Ecl. Long. L  = 228.2133° = 228° 12.8' (Scorpio 18° 12.8')
+    Distance from Earth = 0.990281 AU,  Diameter = 32.3'
+    Declin.= 17.2522° S = 17° 15.1' S
+    GHA    = 43.76° = 43° 45.8'
+    LHA    = 79.96° = 79° 57.8'
+    Alt.= -0.68° = 0° 40.9'
+    Az.= 250.4°  (WSW)
+    Begin astr. twilight  04:35   01:24 h before rise
+    Begin naut. twilight  05:04   00:55 h before rise
+    Begin civil twilight  05:33   00:26 h before rise
+    Sunrise               05:59   Azim. = 109.7°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:19   Altit.= 41.3°
+    Sunset                16:39   Azim. = 250.2° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:05   00:25 h after set
+    End naut. twilight    17:34   00:55 h after set
+    End astr. twilight    18:03   01:23 h after set
+    Minimum altitude at   23:19   -75.2°
+    Length of Day:   10 h 40.3 min = length of prev. day  - 1.5 min
+  MOON:
+    Prev. New Moon: Mon 2026 Nov  9 at  7:04 UT
+    Moon Age 1.3157 d = 01 d 07 h 35 m 
+    waxing crescent
+    Next New Moon:  Wed 2026 Dec  9 at  0:52 UT
+    Illum. Frac.  = 1.7 % (+)
+    Bright limb angle   = -112° to zenith
+    Distance from Earth = 401169 km,  Diameter = 29.83'
+    Declin.= 25.6301° S = 25° 38' S
+    Right Asc. RA = 239.6023° = 15h 58m 24.5s
+    Ecl. Long. L  = 243.0611° = 243° 03.7' (Sagittarius 3° 03.7')
+    GHA    = 29.56° = 29° 33.6'
+    LHA    = 65.76° = 65° 45.6'
+    Alt.= 4.3°
+    Az.= 235.6°  (SW)
+    Rise     07:03   Azim. = 119.4° (ESE)
+    Transit  12:06   Altit.= 32.3°
+    Set      17:07   Azim. = 239.3° (WSW)   Above horizon:   10:04 hours
+    Geocentric Elong. = 15.63°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Nov 11 16:39:00 GMT-06:00 2026
+  UT:        Wed Nov 11 14:39:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461356.1104166666
+  Equation of Time        = 15:58 min  = prev. day  -6.5 s
+  Local Sidereal Time     = 306.7058° = 306° 42.3' = 20h 26m 49.4s
+  Greenwich Sidereal Time = 270.5058° = 270° 30.3' = 18h 02m 1.4s
+  SUN:
+    Right Asc. RA = 226.7658° = 15h 07m 3.8s
+    Ecl. Long. L  = 229.2185° = 229° 13.1' (Scorpio 19° 13.1')
+    Distance from Earth = 0.990047 AU,  Diameter = 32.31'
+    Declin.= 17.5286° S = 17° 31.7' S
+    GHA    = 43.74° = 43° 44.2'
+    LHA    = 79.94° = 79° 56.2'
+    Alt.= -0.81° = 0° 48.8'
+    Az.= 250.1°  (WSW)
+    Begin astr. twilight  04:36   01:24 h before rise
+    Begin naut. twilight  05:05   00:55 h before rise
+    Begin civil twilight  05:34   00:26 h before rise
+    Sunrise               06:00   Azim. = 110.1°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:19   Altit.= 41.0°
+    Sunset                16:39   Azim. = 249.8° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    17:04   00:25 h after set
+    End naut. twilight    17:33   00:55 h after set
+    End astr. twilight    18:02   01:23 h after set
+    Minimum altitude at   23:19   -75.5°
+    Length of Day:   10 h 38.8 min = length of prev. day  - 1.5 min
+  MOON:
+    Prev. New Moon: Mon 2026 Nov  9 at  7:04 UT
+    Moon Age 2.3157 d = 02 d 07 h 35 m 
+    waxing crescent
+    Next New Moon:  Wed 2026 Dec  9 at  0:52 UT
+    Illum. Frac.  = 5.0 % (+)
+    Bright limb angle   = -118° to zenith
+    Distance from Earth = 403314 km,  Diameter = 29.73'
+    Declin.= 27.2993° S = 27° 18' S
+    Right Asc. RA = 252.9466° = 16h 51m 47.2s
+    Ecl. Long. L  = 255.1634° = 255° 09.8' (Sagittarius 15° 09.8')
+    GHA    = 17.2° = 17° 11.7'
+    LHA    = 53.4° = 53° 23.7'
+    Alt.= 11.3°
+    Az.= 226.8°  (SW)
+    Rise     08:01   Azim. = 122.1° (ESE)
+    Transit  12:57   Altit.= 30.3°
+    Set      17:53   Azim. = 237.3° (WSW)   Above horizon:   09:51 hours
+    Geocentric Elong. = 26.34°
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Wed Dec 09 16:32:00 GMT-06:00 2026
+  UT:        Wed Dec 09 14:32:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461384.105555556
+  Equation of Time        = 7:38 min  = prev. day  -26.6 s
+  Local Sidereal Time     = 332.5491° = 332° 32.9' = 22h 10m 11.8s
+  Greenwich Sidereal Time = 296.3491° = 296° 20.9' = 19h 45m 23.8s
+  SUN:
+    Right Asc. RA = 256.4445° = 17h 05m 46.7s
+    Ecl. Long. L  = 257.5264° = 257° 31.6' (Sagittarius 17° 31.6')
+    Distance from Earth = 0.984924 AU,  Diameter = 32.48'
+    Declin.= 22.8528° S = 22° 51.2' S
+    GHA    = 39.9° = 39° 54.0'
+    LHA    = 76.1° = 76° 06.0'
+    Alt.= -0.88° = 0° 52.5'
+    Az.= 243.5°  (WSW)
+    Begin astr. twilight  04:57   01:27 h before rise
+    Begin naut. twilight  05:26   00:57 h before rise
+    Begin civil twilight  05:57   00:27 h before rise
+    Sunrise               06:23   Azim. = 116.5°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:28   Altit.= 35.5°
+    Sunset                16:32   Azim. = 243.4° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    16:58   00:27 h after set
+    End naut. twilight    17:29   00:57 h after set
+    End astr. twilight    17:58   01:27 h after set
+    Minimum altitude at   23:28   -81.0°
+    Length of Day:   10 h 8.6 min = length of prev. day  - 0.6 min
+  MOON:
+    Prev. New Moon: Wed 2026 Dec  9 at  0:52 UT
+    Moon Age 0.5692 d = 00 d 13 h 40 m 
+    new
+    Next New Moon:  Thu 2027 Jan  7 at 20:22 UT
+    Illum. Frac.  = 0.3 % (+)
+    Bright limb angle   = -105° to zenith
+    Distance from Earth = 405239 km,  Diameter = 29.5'
+    Declin.= 27.6076° S = 27° 36' S
+    Right Asc. RA = 262.1013° = 17h 28m 24.3s
+    Ecl. Long. L  = 263.7468° = 263° 44.8' (Sagittarius 23° 44.8')
+    GHA    = 33.39° = 33° 23.4'
+    LHA    = 69.59° = 69° 35.4'
+    Alt.= 0.6°
+    Az.= 236.2°  (SW)
+    Rise     06:50   Azim. = 123.1° (ESE)
+    Transit  11:43   Altit.= 29.9°
+    Set      16:38   Azim. = 236.9° (WSW)   Above horizon:   09:48 hours
+    Geocentric Elong. = 7.57°
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Thu Dec 10 16:32:00 GMT-06:00 2026
+  UT:        Thu Dec 10 14:32:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461385.105555556
+  Equation of Time        = 7:11 min  = prev. day  -27.1 s
+  Local Sidereal Time     = 333.5348° = 333° 32.1' = 22h 14m 8.3s
+  Greenwich Sidereal Time = 297.3348° = 297° 20.1' = 19h 49m 20.3s
+  SUN:
+    Right Asc. RA = 257.543° = 17h 10m 10.3s
+    Ecl. Long. L  = 258.5425° = 258° 32.5' (Sagittarius 18° 32.5')
+    Distance from Earth = 0.984801 AU,  Diameter = 32.48'
+    Declin.= 22.9438° S = 22° 56.6' S
+    GHA    = 39.79° = 39° 47.2'
+    LHA    = 75.99° = 75° 59.2'
+    Alt.= -0.85° = 0° 50.7'
+    Az.= 243.4°  (WSW)
+    Begin astr. twilight  04:57   01:27 h before rise
+    Begin naut. twilight  05:27   00:57 h before rise
+    Begin civil twilight  05:57   00:27 h before rise
+    Sunrise               06:24   Azim. = 116.6°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:28   Altit.= 35.4°
+    Sunset                16:32   Azim. = 243.3° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    16:59   00:27 h after set
+    End naut. twilight    17:29   00:57 h after set
+    End astr. twilight    17:59   01:27 h after set
+    Minimum altitude at   23:28   -81.1°
+    Length of Day:   10 h 8.0 min = length of prev. day  - 0.5 min
+  MOON:
+    Prev. New Moon: Wed 2026 Dec  9 at  0:52 UT
+    Moon Age 1.5692 d = 01 d 13 h 40 m 
+    waxing crescent
+    Next New Moon:  Thu 2027 Jan  7 at 20:22 UT
+    Illum. Frac.  = 2.2 % (+)
+    Bright limb angle   = -127° to zenith
+    Distance from Earth = 406057 km,  Diameter = 29.51'
+    Declin.= 27.0099° S = 27° 01' S
+    Right Asc. RA = 276.0153° = 18h 24m 3.7s
+    Ecl. Long. L  = 275.6304° = 275° 37.8' (Capricornus 5° 37.8')
+    GHA    = 21.03° = 21° 01.5'
+    LHA    = 57.23° = 57° 13.5'
+    Alt.= 9.1°
+    Az.= 229.5°  (SW)
+    Rise     07:41   Azim. = 122.9° (ESE)
+    Transit  12:34   Altit.= 30.3°
+    Set      17:31   Azim. = 237.7° (WSW)   Above horizon:   09:50 hours
+    Geocentric Elong. = 17.47°
+
+
+
+ 
+Sun, Moon & Earth - 6.1     © 1998-2015 Juergen Giesen
+User: replace
+  Location:  User Input
+  Latitude:  31.766666666666666° N = 31° 46.0' N
+  Longitude: 36.2° E = 36° 12.0' E
+  Date/Time: Fri Dec 11 16:32:00 GMT-06:00 2026
+  UT:        Fri Dec 11 14:32:00 UT 2026
+  Time Zone: UT + 2:00 h
+  Jul. Day:  2461386.105555556
+  Equation of Time        = 6:43 min  = prev. day  -27.5 s
+  Local Sidereal Time     = 334.5204° = 334° 31.2' = 22h 18m 4.9s
+  Greenwich Sidereal Time = 298.3204° = 298° 19.2' = 19h 53m 16.9s
+  SUN:
+    Right Asc. RA = 258.6432° = 17h 14m 34.4s
+    Ecl. Long. L  = 259.5588° = 259° 33.5' (Sagittarius 19° 33.5')
+    Distance from Earth = 0.984682 AU,  Diameter = 32.48'
+    Declin.= 23.0272° S = 23° 01.6' S
+    GHA    = 39.67° = 39° 40.3'
+    LHA    = 75.87° = 75° 52.3'
+    Alt.= -0.81° = 0° 48.6'
+    Az.= 243.3°  (WSW)
+    Begin astr. twilight  04:58   01:27 h before rise
+    Begin naut. twilight  05:27   00:57 h before rise
+    Begin civil twilight  05:58   00:27 h before rise
+    Sunrise               06:25   Azim. = 116.7°(ESE), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    Transit               11:28   Altit.= 35.3°
+    Sunset                16:32   Azim. = 243.2° (WSW), Moon Azim. null
+                                  daz = 0.0°,  dalt null
+    End civil twilight    16:59   00:27 h after set
+    End naut. twilight    17:29   00:57 h after set
+    End astr. twilight    17:59   01:27 h after set
+    Minimum altitude at   23:28   -81.2°
+    Length of Day:   10 h 7.5 min = length of prev. day  - 0.5 min
+  MOON:
+    Prev. New Moon: Wed 2026 Dec  9 at  0:52 UT
+    Moon Age 2.5692 d = 02 d 13 h 40 m 
+    waxing crescent
+    Next New Moon:  Thu 2027 Jan  7 at 20:22 UT
+    Illum. Frac.  = 5.8 % (+)
+    Bright limb angle   = -132° to zenith
+    Distance from Earth = 406180 km,  Diameter = 29.57'
+    Declin.= 25.1844° S = 25° 11' S
+    Right Asc. RA = 289.5716° = 19h 18m 17.2s
+    Ecl. Long. L  = 287.4474° = 287° 26.8' (Capricornus 17° 26.8')
+    GHA    = 9.0° = 8° 59.8'
+    LHA    = 45.2° = 45° 11.8'
+    Alt.= 17.7°
+    Az.= 222.6°  (SW)
+    Rise     08:26   Azim. = 121.0° (ESE)
+    Transit  13:25   Altit.= 32.0°
+    Set      18:27   Azim. = 240.1° (WSW)   Above horizon:   10:01 hours
+    Geocentric Elong. = 28.03°
